@@ -1,0 +1,4 @@
+shortuuid
+funcx
+globus_automate_client
+-e git+git://github.com/globus-gladier/gladier.git#egg=gladier
