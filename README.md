@@ -1,11 +1,9 @@
 # Flows
-A repository of Braid Flows.
+A repository of Braid Flows Examples.
 
-Note: I need to work out how to share these flows with people. They currently rely on endpoints that have been configured
-with envrionments suitable for running the tools and require data to exist on certain globus endpoints.
+## Tomo
 
-## Installation
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ANL-Braid/Flows_examples/HEAD?filepath=tomo_flow_example.ipynb)
 
-## Running
 
 ## Credits
