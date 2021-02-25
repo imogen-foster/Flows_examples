@@ -1,5 +1,5 @@
 # Flows
-A repository of Braid Flows Examples.
+A repository of Braid Flow Examples.
 
 ## Tomo
 
